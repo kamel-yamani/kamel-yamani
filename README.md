@@ -1,7 +1,6 @@
 ### Presentation
 Hi, I'm **Kamel**,
-a student at Higher National School of Computer Science (ESI) in Algiers.
-I'm passionate about Machine Learning, and I enjoy creating Web Sites.
+Student at Higher National School of Computer Science Algiers- ESI ex INI, I like creating Web Sites in my spare time, I'm also a AI Passionate
 
 <!---
 kamel-yamani/kamel-yamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
