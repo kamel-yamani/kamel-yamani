@@ -1,7 +1,6 @@
 ### Presentation
 Hi, I'm **Kamel**,
-Student at Higher National School of Computer Science Algiers - ESI ex INI, 
-I like creating Web Sites in my spare time.
+Student at Higher National School of Computer Science Algiers - ESI ex INI.
 
 <!---
 kamel-yamani/kamel-yamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
