@@ -15,5 +15,5 @@
 
 ## 🤝🏻 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-KamelMohammedYamani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamel-yamani/)](https://www.linkedin.com/in/kamel-yamani/) <!-- [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri) -->[![Gmail Badge](https://img.shields.io/badge/-ne.chenni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jm_yamani@esi.dz)](mailto:jm_yamani@esi.dz)
+[![Linkedin Badge](https://img.shields.io/badge/-KamelMohammedYamani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamel-yamani/)](https://www.linkedin.com/in/kamel-yamani/) <!-- [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri) -->[![Gmail Badge](https://img.shields.io/badge/-jm_yamani@esi.dz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jm_yamani@esi.dz)](mailto:jm_yamani@esi.dz)
 
