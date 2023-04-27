@@ -15,7 +15,7 @@
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kamel-yamani&layout=compact">
 
-[![YAMANI Mohammed Kamel GitHub Stats](https://github-readme-stats.vercel.app/api?usernamekamel-yamani&show_icons=true&count_private=true)](https://github.com/kamel-yamani)
+[![YAMANI Mohammed Kamel GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamel-yamani&show_icons=true&count_private=true)](https://github.com/kamel-yamani)
 
 ## 🤝🏻 Connect with Me
 
