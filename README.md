@@ -5,7 +5,5 @@
  
 ## Current level
 
-- <h4> I build ML models and software.</h4>
+- <h4> I create Machine Learning models and software applications.</h4>
 - <h4> I have 3 years of tech experience.</h4>
-
-
