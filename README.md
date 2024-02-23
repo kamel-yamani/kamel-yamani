@@ -1,7 +1,5 @@
-### Hi there 👋 I'm [Kamel Mohammed Yamani](https://www.linkedin.com/in/kamel-yamani/)
-> Research Intern at NYUAD | 5th Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
-
- I am driven by a passion for learning and problem-solving. I constantly seek out new challenges and opportunities that allow me to grow and make a meaningful impact.
+### Hi there 👋 I'm [Kamel Yamani](https://www.linkedin.com/in/kamel-yamani/)
+> Research Intern at NYUAD | 5th Year Computer Science Student At [ESI EX INI](https://www.esi.dz/)
  
 ## Current level
 
