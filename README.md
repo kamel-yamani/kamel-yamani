@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Kamel Yamani](https://www.linkedin.com/in/kamel-yamani/)
-> Research Intern at NYUAD | 5th Year Computer Science Student At [ESI EX INI](https://www.esi.dz/)
+> Data Scientist Apprentice @Veolia | Data Science Msc Student @UPCité | Computer Science Engineer @ESI
  
 ## Current level
 
