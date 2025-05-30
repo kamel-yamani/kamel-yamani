@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Kamel Yamani](https://www.linkedin.com/in/kamel-yamani/)
-> Data Scientist Apprentice @Veolia | Data Science Msc Student @UPCité | Computer Science Engineer @ESI
+> Data Scientist | @UPCité, @ESI
  
 ## Current level
 
